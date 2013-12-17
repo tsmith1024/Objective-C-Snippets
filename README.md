@@ -8,6 +8,7 @@ Thanks for taking a look here, and enjoy!
 
 -- Taylor Smith
 
-* * * * *
-*App list*
+- - - - -
+
+**App list**
 [Better Than Yesterday](http://bit.ly/bty_app)
