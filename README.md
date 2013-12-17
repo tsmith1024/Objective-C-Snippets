@@ -6,8 +6,8 @@ I plan to continue improving these snippets if I find useful improvements, and w
 
 Thanks for taking a look here, and enjoy!
 
-
-
 -- Taylor Smith
-App list:
+
+* * * * *
+*App list*
 [Better Than Yesterday](http://bit.ly/bty_app)
